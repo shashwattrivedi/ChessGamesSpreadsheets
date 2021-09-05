@@ -12,3 +12,6 @@ Macros are Visual Basic for Applications (VBA) module which runs the scripts. Th
 
 ## Enjoy the Opera Game
 <img src="media\OperaGame.gif" width="475" height="256" />
+
+## NFT
+If you liked this, check out [Opera Game Spreadsheet Art](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/54655637332165947282227659228911651402086341524143331288101576781890204991489/)
